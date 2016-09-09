@@ -1,4 +1,5 @@
 cars = 100
+spac_in_a_car = 4
 drivers = 30
 passengers = 90
 cars_not_driven = cars - drivers
